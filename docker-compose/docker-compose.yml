@@ -1,6 +1,6 @@
 services:
   celeste:
-    image: ghcr.io/r9r-dev/celeste:latest
+    image: ghcr.io/ronalove/celeste:latest
     container_name: celeste
     restart: unless-stopped
     ports:
